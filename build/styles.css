@@ -9,8 +9,6 @@ html {
 body {
   background: #eee;
   padding: 0 16px;
-  background-color: #111111;
-  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
 }
 
 header {
@@ -101,7 +99,4 @@ form.create-note button {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   cursor: pointer;
   outline: none;
-}
-form.create-note button:hover {
-  background: #94782c;
 }
